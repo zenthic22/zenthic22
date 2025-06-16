@@ -14,8 +14,3 @@
 ### MySQL
 
 ---
-
-### Contact
-| My cellphone number |
-|--------|
-| +502 37742547 |
