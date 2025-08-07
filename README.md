@@ -6,6 +6,10 @@
 # Studies
 ### I'm student of 10th semester on USAC. 😁😁
 ### My career is computer science engineer. 👌👌
+
+---
+
+# Hobbies
 ### I'm content creator in my free times.
 
 ---
