@@ -1,8 +1,12 @@
-# Profile
-### Hi, my name is Abdul Chacon i'm 25 years old and i'm from Guatemala.
-### I'm student of 9th semester in career Engineering Sciences and Systems on USAC. 😁😁
-### On this site you can see all my projects that I did throughout my career. 😌😌
-### Also making personal projects in my free time.
+# Who's me?
+### Hi everyone my name is Abdul Chacon, I'm 26 years old, I was born in Guatemala. My experience about my career is so wonderful I want to tell you a brief history of my skills and studies.
+
+---
+
+# About me
+### I'm student of 10th semester on USAC. 😁😁
+### My career is computer science engineer. 👌👌
+### I'm content creator in my free times.
 
 ---
 
@@ -10,7 +14,13 @@
 
 ### Python
 ### JavaScript
-### C++
-### MySQL
+### Go
+### Java
+### Packet Tracer
 
 ---
+
+# Languages
+
+### Spanish
+### English (Elementary)
