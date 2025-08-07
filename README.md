@@ -3,7 +3,7 @@
 
 ---
 
-# About me
+# Studies
 ### I'm student of 10th semester on USAC. 😁😁
 ### My career is computer science engineer. 👌👌
 ### I'm content creator in my free times.
